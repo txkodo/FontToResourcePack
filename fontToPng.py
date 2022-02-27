@@ -84,7 +84,7 @@ def fontToResourcePack(fontpath:str|Path,fontheight:int,resourcePackPath:str|Pat
   mcmeta = {
   "pack": {
       "pack_format": 8,
-      "description": " Font Pack made with FontGen by @txkodo"
+      "description": "Font Pack made with FontToResourcePack (https://github.com/txkodo/FontToResourcePack)"
     }
   }
   (resourcePackPath/"pack.mcmeta").write_text(json.dumps(mcmeta))
