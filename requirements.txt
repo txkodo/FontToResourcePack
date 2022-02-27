@@ -1,0 +1,4 @@
+CairoSVG==2.5.2
+fontTools==4.29.1
+Pillow==9.0.1
+tqdm==4.62.3
