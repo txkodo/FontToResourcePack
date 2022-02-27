@@ -83,7 +83,7 @@ def fontToResourcePack(fontpath:str|Path,fontheight:int,resourcePackPath:str|Pat
   resourcePackPath.mkdir(parents=True,exist_ok=True)
   mcmeta = {
   "pack": {
-      "pack_format": 6,
+      "pack_format": 8,
       "description": " Font Pack made with FontGen by @txkodo"
     }
   }
