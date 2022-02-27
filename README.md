@@ -35,5 +35,5 @@ main.py を起動する
 ただし変換したフォントにはフォント自体のライセンスが適用されますので、公開、配布等する際には十分ご注意ください
 
 # Contact
-不明点がある、バグを見つけた、3.10.0以外のPythonで動いた等の場合はぜひtwitterのDMにお願いします。
+不明点がある、バグを見つけた、3.10.0以外のPythonで動いた等の報告はぜひtwitterのDMにお願いします。
 [Twitter @txkodo](https://mobile.twitter.com/txkodo)
