@@ -21,7 +21,7 @@ pip install -r requirements.txt
 # 使用方法
 本リポジトリをgit cloneもしくはzipでダウンロードし展開する
 
-上記ライブラリうを導入する
+上記ライブラリを導入する
 
 main.py を起動する
 
