@@ -1,4 +1,3 @@
-from configparser import InterpolationMissingOptionError
 from math import ceil
 from fontTools.ttLib import TTFont
 from fontTools.pens.svgPathPen import SVGPathPen
